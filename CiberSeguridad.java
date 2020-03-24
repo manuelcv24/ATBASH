@@ -48,7 +48,7 @@ public class CiberSeguridad {
     private static void cibersegurid() {
         Scanner scan = new Scanner (System.in);
         
-        String letras = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        String letras = "ABCDEFGHIJKLMNÑOPQRSTUVWXYZ";
         String reverso = "";
         
          for(int i = letras.length() -1; i > -1; i--)
